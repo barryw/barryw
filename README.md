@@ -1,6 +1,6 @@
-## Hey, I'm Barry
+## 6502 assembly for fun. Terraform for profit. MCP servers because I can't stop connecting things to AI.
 
-Software engineer in Quincy, MA. I write 6502 assembly for fun, Terraform for profit, and MCP servers because I can't stop connecting things to AI.
+Software engineer in Quincy, MA.
 
 ---
 
